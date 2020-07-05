@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Name of your app.
-APP="Moodle Desktop"
+APP="VidyaSethu Desktop"
 # The path of your app to sign.
 APP_PATH="desktop/dist/mas/Moodle Desktop.app"
 # The path to the location you want to put the signed package.
