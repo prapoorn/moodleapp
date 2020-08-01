@@ -1,7 +1,7 @@
 {
     "app_id": "com.moodle.moodlemobile",
-    "appname": "VidhyaSethu Mobile",
-    "desktopappname": "VidhyaSethu Desktop",
+    "appname": "EdGuru Academy Mobile",
+    "desktopappname": "EdGuru Academy Desktop",
     "versioncode": 3900,
     "versionname": "3.9.0",
     "cache_update_frequency_usually": 420000,

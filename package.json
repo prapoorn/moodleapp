@@ -230,7 +230,7 @@
   "main": "desktop/electron.js",
   "build": {
     "appId": "com.moodle.moodledesktop",
-    "productName": "VidhyaSethu Desktop",
+    "productName": "EdGuru Academy Desktop",
     "files": [
       "desktop/electron.js",
       "www/**/*",

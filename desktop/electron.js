@@ -11,7 +11,7 @@ const isMac = os.platform().indexOf('darwin') != -1;
 // Keep a global reference of the window object, if you don't, the window will
 // be closed automatically when the JavaScript object is garbage collected.
 let mainWindow,
-    appName = 'VidhyaSethu Desktop', // Default value.
+    appName = 'EdGuru Academy Desktop', // Default value.
     isReady = false,
     configRead = false;
 
@@ -254,7 +254,7 @@ function setAppMenu() {
                     label: 'Docs',
                     accelerator: 'CmdOrCtrl+H',
                     click() {
-                        shell.openExternal('https://docs.moodle.org/en/Moodle_Mobile');
+                        shell.openExternal('https://www.vidhyasethu.com');
                     }
                 }
             ]

@@ -8,6 +8,35 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:451936275885:android:759be062d4c73173836524",
+        "android_client_info": {
+          "package_name": "com.pupilmark.edguru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451936275885-ma125a5fae0fi2512up8t8sei6m0uf4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCScLOiPmogXv8SCVcycY7n_LOlX_DamFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451936275885-ma125a5fae0fi2512up8t8sei6m0uf4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:451936275885:android:c8da3231a2e49cba836524",
         "android_client_info": {
           "package_name": "com.pupilmark.vidhyasethu"
